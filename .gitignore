@@ -1,0 +1,8 @@
+# ignore json files.
+bin/
+lib64/
+lib/
+include/
+pyenv.cfg
+
+*.json
